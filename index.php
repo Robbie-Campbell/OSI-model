@@ -10,8 +10,8 @@
 </head>
 <body>
     <nav>
-        <h1 class="text-center pt-3">The OSI Model</h1>
-        <p class="text-center text-muted">By Rab</p>
+        <h2 class="text-center pt-2"><u>The OSI Model</u></h2>
+        <p class="text-center">By Rab</p>
     </nav>
     <Main>
         <div class="model">
